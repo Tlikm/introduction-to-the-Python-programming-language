@@ -122,8 +122,4 @@ This repository is written in [Persian](https://github.com/graymicro/introductio
 - https://www.python.org/
 
 ***
-### 🖊 the writer : Alireza Allahyarian - [Website](http://microhex.info/) - [linkedin](https://www.linkedin.com/in/alireza-allahyarian-658658258/)- [GitHub](https://github.com/graymicro) - [Tlegeram](https://t.me/graycubeteam) 
-
-#### **[♦️license by gray cube team♦️](graycubeteam.github.io)**
-
 
